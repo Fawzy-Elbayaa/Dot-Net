@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web course\\Codes\\WebApiDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\dto\\deptwithempcountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\dto\\deptwithempcountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\controllers\\bindingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\controllers\\bindingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\webapidotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\webapidotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiDotNet\\appsettings.json",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\appsettings.json",
+              "RelativeToolTip": "WebApiDotNet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T19:28:28.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BindingController.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Controllers\\BindingController.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\Controllers\\BindingController.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Controllers\\BindingController.cs",
+              "RelativeToolTip": "WebApiDotNet\\Controllers\\BindingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:32:35.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\Program.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Program.cs",
+              "RelativeToolTip": "WebApiDotNet\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:11:01.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiDotNet.csproj",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\WebApiDotNet.csproj",
+              "RelativeDocumentMoniker": "WebApiDotNet\\WebApiDotNet.csproj",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\WebApiDotNet.csproj",
+              "RelativeToolTip": "WebApiDotNet\\WebApiDotNet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T10:35:00.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeptWithEmpCountDTO.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\DTO\\DeptWithEmpCountDTO.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\DTO\\DeptWithEmpCountDTO.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\DTO\\DeptWithEmpCountDTO.cs",
+              "RelativeToolTip": "WebApiDotNet\\DTO\\DeptWithEmpCountDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:41:33.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApiDotNet\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA7wCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:29:29.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITIContext.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Models\\ITIContext.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\Models\\ITIContext.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Models\\ITIContext.cs",
+              "RelativeToolTip": "WebApiDotNet\\Models\\ITIContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:05:16.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\Models\\Employee.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApiDotNet\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:00:59.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\Models\\Department.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Models\\Department.cs",
+              "RelativeToolTip": "WebApiDotNet\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:45:06.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
